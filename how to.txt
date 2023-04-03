@@ -1,0 +1,13 @@
+downlode and install
+1.NetBeans
+2.MySQL
+3.Java
+
+config database connection
+change code this line :
+> Conn = DriverManager.getConnection(url,user,pass);
+
+String Url = link in database connection in NwetBeans Project
+String user = your username database
+String pass = you password database
+
